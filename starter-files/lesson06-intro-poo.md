@@ -1,3 +1,7 @@
+# Lección 6: Introducción a la POO
+
+## Ejercicio 1. Completa el código siguiendo el tutorial, o puedes agregar ocsas por tu cuenta.
+
 public class Zombi {
     int vida;
     double daño;
