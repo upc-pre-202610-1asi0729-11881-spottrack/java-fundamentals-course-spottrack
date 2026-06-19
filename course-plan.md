@@ -49,7 +49,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Descripción**: ¡Aprenderás qué son métodos y cómo crear uno!
 - **Enlace**: [Ver la lección](https://youtu.be/avBmO2BxyP0)
 - **Conclusiones clave**: Class Zombi {}, void atacar(), constructor, atributos, revisi[on de clases con elementos de minecraft
-- **Empieza a programar**: [Clic para programar](https://www.jdoodle.com/online-java-compiler)
+- **Empieza a programar**: [Clic para programar](https://youtu.be/avBmO2BxyP0)
 
 
 ### Lección 7: Fundamentos de POO (10 minutos)
