@@ -1,5 +1,5 @@
-Lección 2: Variables y tipos de datos
-Ejercicio 1. Completa el código siguiendo el tutorial, o puedes asignar cosas por tu cuenta.
+# Lección 2: Variables y tipos de datos
+## Ejercicio 1. Completa el código siguiendo el tutorial, o puedes asignar cosas por tu cuenta.
 
 public class MyClass {
     public static void main(String args[]) {
