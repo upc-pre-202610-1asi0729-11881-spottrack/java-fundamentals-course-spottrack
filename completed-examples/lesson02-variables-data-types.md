@@ -4,7 +4,8 @@
 
 ### Solución:
 
-public class MyClass {
+
+``` public class MyClass {
     public static void main(String args[]) {
         int diamantes = 63;
         String nombre = "Steve";
@@ -14,3 +15,4 @@ public class MyClass {
         System.out.println(diamantes);
     }
 }
+```
