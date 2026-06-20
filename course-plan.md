@@ -19,7 +19,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
 
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/ynuVILnOS58)
 - **Empieza a programar**: [Abrir JDoodle - Hola mundo](https://www.jdoodle.com/online-java-compiler)
 
 ### Lección 2: Variables y tipos de datos (5 minutos)
@@ -39,38 +39,39 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 4: Estructuras de Datos Simples (6 minutos)
 
 - **Descripción**: Aprende a guardar múltiples valores con arrays, recorrerlos con bucles y combinarlos con objetos para organizar información más compleja.
+-  **Enlace**: [Ver la lección](https://youtu.be/eJMvqQrZZXc)
 - **Conclusiones clave**: Un array guarda varios valores del mismo tipo (int[] notas = {85, 92, 70}); los índices empiezan en cero; usa notas.length para saber el tamaño; combiná arrays con objetos para agrupar datos relacionados.
 - **Empieza a programar**: [Clic para programar](https://www.jdoodle.com/online-java-compiler)
 
 ### Lección 5: Métodos Entrada/Salida (7 minutos)
 
 - **Descripción**: ¡Aprenderás qué son métodos y cómo crear uno!
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/RFzrSn2lzQM )
 
 ### Lección 6: Introducción a la POO (6 minutos)
 
 - **Descripción**: ¡Aprenderás qué son métodos y cómo crear uno!
 - **Enlace**: [Ver la lección](https://youtu.be/avBmO2BxyP0)
-- **Conclusiones clave**: Class Zombi {}, void atacar(), constructor, atributos, revisi[on de clases con elementos de minecraft
+- **Conclusiones clave**: Class Zombi {}, void atacar(), constructor, atributos, revision de clases con elementos de minecraft
 - **Empieza a programar**: [Clic para programar](https://youtu.be/avBmO2BxyP0)
 
 
 ### Lección 7: Fundamentos de POO (10 minutos)
 
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://youtu.be/B2EM6Dz_8xg)
 - **Empieza a programar**: [Crea tu aplicación POO](https://www.jdoodle.com/online-java-compiler)
 
 ### Lección 8: Programa Sencillo (8 minutos)
 
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://youtu.be/eCcW2QP7_vM?si=Lb3bm-rcU1b11TL5)
 - **Proyecto final**: [Crea tu aplicación POO](https://www.jdoodle.com/online-java-compiler)
 
-### Lección 8: Consejos y próximos pasos (5 minutos)
+### Lección 9: Consejos y próximos pasos (5 minutos)
 
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver la lección](https://youtu.be/sjfJIC8b9Mw)
 - **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
 
 **¡Guarda y comparte!**

@@ -55,15 +55,15 @@ Cada archivo en `/lessons` corresponde a una lección del curso, e incluye en un
 
 | # | Archivo | Tema | Estado |
 |---|---|---|---|
-| 1 | [lesson01-intro-java.md](./lessons/lesson01-intro-java.md) | ¿Qué es Java y la Programación? | ⬜ Pendiente |
+| 1 | [lesson01-intro-java.md](./lessons/lesson01-intro-java.md) | ¿Qué es Java y la Programación? | ✅ Listo |
 | 2 | [lesson02-variables.md](./lessons/lesson02-variables.md) | Variables y tipos de datos | ✅ Listo |
 | 3 | [lesson03-control-flow.md](./lessons/lesson03-control-flow.md) | Estructuras de Control: Decisiones y bucles | ✅ Listo |
 | 4 | [lesson04-estructuras-datos.md](./lessons/lesson04-estructuras-datos.md) | Estructuras de Datos Simples | ✅ Listo |
-| 5 | [lesson05-metodos-io.md](./lessons/lesson05-metodos-io.md) | Métodos Entrada/Salida | ⬜ Pendiente |
+| 5 | [lesson05-metodos-io.md](./lessons/lesson05-metodos-io.md) | Métodos Entrada/Salida | ✅ Listo |
 | 6 | [lesson06-intro-poo.md](./lessons/lesson06-intro-poo.md) | Introducción a la POO | ✅ Listo |
-| 7 | [lesson07-fundamentos-poo.md](./lessons/lesson07-fundamentos-poo.md) | Fundamentos de POO | ⬜ Pendiente |
-| 8 | [lesson08-programa-sencillo.md](./lessons/lesson08-programa-sencillo.md) | Programa Sencillo | ⬜ Pendiente |
-| 9 | [lesson09-consejos-finales.md](./lessons/lesson09-consejos-finales.md) | Consejos y próximos pasos | ⬜ Pendiente |
+| 7 | [lesson07-fundamentos-poo.md](./lessons/lesson07-fundamentos-poo.md) | Fundamentos de POO | ✅ Listo |
+| 8 | [lesson08-programa-sencillo.md](./lessons/lesson08-programa-sencillo.md) | Programa Sencillo | ✅ Listo |
+| 9 | [lesson09-consejos-finales.md](./lessons/lesson09-consejos-finales.md) | Consejos y próximos pasos | ✅ Listo |
 
 > **Nota sobre la numeración**: el plan de curso original tenía dos lecciones marcadas como "Lección 8" (Programa Sencillo y Consejos y próximos pasos). Se renumeró la segunda como **Lección 9** para mantener una secuencia única y consistente con los nombres de archivo.
 
@@ -78,6 +78,6 @@ Período 202610
 NRC: 11881
 
 **Nombre del equipo**: Spottrack
-**Líder del equipo**: [Nombres y Apellidos]
-**Integrantes del equipo**: [Nombres y Apellidos]
-**Fecha de entrega**: [Fecha]
+**Líder del equipo**: Juan Pabio Azama Fukuda
+**Integrantes del equipo**: Juan Pabio Azama Fukuda, Valentino Andre Espinoza Orrego, Alvaro Sebastian Fernandez Linares
+**Fecha de entrega**: 20/06/26
