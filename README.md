@@ -57,8 +57,8 @@ Cada archivo en `/lessons` corresponde a una lección del curso, e incluye en un
 |---|---|---|---|
 | 1 | [lesson01-intro-java.md](./lessons/lesson01-intro-java.md) | ¿Qué es Java y la Programación? | ⬜ Pendiente |
 | 2 | [lesson02-variables.md](./lessons/lesson02-variables.md) | Variables y tipos de datos | ✅ Listo |
-| 3 | [lesson03-control-flow.md](./lessons/lesson03-control-flow.md) | Estructuras de Control: Decisiones y bucles | ⬜ Pendiente |
-| 4 | [lesson04-estructuras-datos.md](./lessons/lesson04-estructuras-datos.md) | Estructuras de Datos Simples | ⬜ Pendiente |
+| 3 | [lesson03-control-flow.md](./lessons/lesson03-control-flow.md) | Estructuras de Control: Decisiones y bucles | ✅ Listo |
+| 4 | [lesson04-estructuras-datos.md](./lessons/lesson04-estructuras-datos.md) | Estructuras de Datos Simples | ✅ Listo |
 | 5 | [lesson05-metodos-io.md](./lessons/lesson05-metodos-io.md) | Métodos Entrada/Salida | ⬜ Pendiente |
 | 6 | [lesson06-intro-poo.md](./lessons/lesson06-intro-poo.md) | Introducción a la POO | ✅ Listo |
 | 7 | [lesson07-fundamentos-poo.md](./lessons/lesson07-fundamentos-poo.md) | Fundamentos de POO | ⬜ Pendiente |

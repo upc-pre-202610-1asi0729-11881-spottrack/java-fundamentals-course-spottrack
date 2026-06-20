@@ -32,12 +32,15 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ### Lección 3: Estructuras de Control: Decisiones y bucles (7 minutos)
 
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/ZxGcjmz7uEU)
+- **Conclusiones clave**: Usa if-else para tomar decisiones; el bucle for repite un número fijo de veces (for (int i = 0; i < 5; i++)); el bucle while repite mientras una condición sea verdadera; cuidado con los bucles infinitos.
+- **Empieza a programar**: [Clic para programar](https://www.jdoodle.com/online-java-compiler)
 
-### Lección 4: Estructuras de Datos Simples (8 minutos)
+### Lección 4: Estructuras de Datos Simples (6 minutos)
 
-- **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Descripción**: Aprende a guardar múltiples valores con arrays, recorrerlos con bucles y combinarlos con objetos para organizar información más compleja.
+- **Conclusiones clave**: Un array guarda varios valores del mismo tipo (int[] notas = {85, 92, 70}); los índices empiezan en cero; usa notas.length para saber el tamaño; combiná arrays con objetos para agrupar datos relacionados.
+- **Empieza a programar**: [Clic para programar](https://www.jdoodle.com/online-java-compiler)
 
 ### Lección 5: Métodos Entrada/Salida (7 minutos)
 
